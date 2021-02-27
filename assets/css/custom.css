@@ -1,0 +1,42 @@
+/* 
+/* 
+/*  custom.css
+/*
+/*  If not using Gulp and Sass, add your custom CSS below then include it
+/*  in your page by adding a reference to assets/css/custom.css in the head of each page.
+/*
+*/
+
+html,
+body {
+    height: 100%;
+}
+
+.logonav {
+    width: 100px;
+}
+
+.navbar {
+    background: black !important;
+    border: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg-dark {
+    background: black !important;
+}
+
+.ham {
+    height: 100% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fw-1 {
+    font-weight: 500;
+}
+
+
+/*  */
